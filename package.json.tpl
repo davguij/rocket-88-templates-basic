@@ -1,5 +1,5 @@
 {
-  "name": "{{=it.projectName}}"
+  "name": "{{=it.projectName}}",
   "version": "1.0.0",
   "private": true,
   "main": "src/server.js",
